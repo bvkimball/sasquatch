@@ -80,7 +80,7 @@ private function readIOErrorHandler(event:Event):void {
 
 ##Current Features
 Load SAS File ( Created with 32-bit version of SAS )
-Read SAS Columns: Names, Labels, DataTypes? & Formats
+Read SAS Columns: Names, Labels, DataTypes & Formats
 Read All Data for Sas file and returns row data.
 
 ##Planned Features
