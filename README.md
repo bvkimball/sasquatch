@@ -1,3 +1,4 @@
+![Sasquatch Logo](logo.png)
 # Sasquatch v0.21
 This library contains necessary classes for reading binary sas files. Sasquatch is a AS3 library for reading data sets in the .sas7bdat format, commonly used in the SAS statistical software system.
 
